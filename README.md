@@ -1,2 +1,1 @@
-# MyUdemySwiftNotes2
-# MyUdemySwiftNotes2
+my lecture notes about swift
